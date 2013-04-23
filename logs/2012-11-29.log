@@ -1,0 +1,27 @@
+2012-11-29 09:21:00.0828 OnPreInit event execute!
+2012-11-29 09:21:00.0898 Fisrtbutton Init event execute!
+2012-11-29 09:21:00.0898 ucTextBox1 Init event execute!
+2012-11-29 09:21:00.0898 User Control OnInit event execute!
+2012-11-29 09:21:00.0898 Secondbutton Init event execute!
+2012-11-29 09:21:00.0898 OnInit event execute!
+2012-11-29 09:21:00.0998 OnInitComplete event execute!
+2012-11-29 09:21:00.0998 OnPreLoad event execute!
+2012-11-29 09:21:00.0998 OnLoad event execute!
+2012-11-29 09:21:00.0998 Fisrtbutton Load event execute!
+2012-11-29 09:21:00.0998 User Control OnLoad event execute!
+2012-11-29 09:21:00.0998 ucTextBox1 Load event execute!
+2012-11-29 09:21:00.0998 Secondbutton Load event execute!
+2012-11-29 09:21:00.0998 OnLoadComplete event execute!
+2012-11-29 09:21:00.0998 OnPreRender event execute!
+2012-11-29 09:21:00.0998 Fisrtbutton PreRender event execute!
+2012-11-29 09:21:00.0998 User Constrol OnPreRender event execute!
+2012-11-29 09:21:00.0998 ucTextBox1 PreRender event execute!
+2012-11-29 09:21:00.0998 Secondbutton PreRender event execute!
+2012-11-29 09:21:00.0998 OnPreRenderComplete event execute!
+2012-11-29 09:21:00.0998 OnSaveStateComplete event execute!
+2012-11-29 09:21:00.2058 Fisrtbutton Unload event execute!
+2012-11-29 09:21:00.2058 ucTextBox1 Unload event execute!
+2012-11-29 09:21:00.2058 User Constrol OnUnload event execute!
+2012-11-29 09:21:00.2088 Secondbutton Unload event execute!
+2012-11-29 09:21:00.2088 OnUnload event execute!
+2012-11-29 09:21:00.2088 -------------------

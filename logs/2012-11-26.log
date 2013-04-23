@@ -1,0 +1,52 @@
+2012-11-26 16:06:02.6897 OnPreInit event execute!
+2012-11-26 16:06:02.6897 OnInit event execute!
+2012-11-26 16:06:02.6897 OnInitComplete event execute!
+2012-11-26 16:06:02.6897 OnPreLoad event execute!
+2012-11-26 16:06:02.7047 OnLoad event execute!
+2012-11-26 16:06:02.7047 OnLoadComplete event execute!
+2012-11-26 16:06:02.7047 OnPreRender event execute!
+2012-11-26 16:06:02.7047 OnPreRenderComplete event execute!
+2012-11-26 16:06:02.7047 OnSaveStateComplete event execute!
+2012-11-26 16:06:02.7997 OnUnload event execute!
+2012-11-26 16:06:02.7997 -------------------
+2012-11-26 16:06:05.7290 OnPreInit event execute!
+2012-11-26 16:06:05.7310 OnInit event execute!
+2012-11-26 16:06:05.7310 OnInitComplete event execute!
+2012-11-26 16:06:05.7310 OnPreLoad event execute!
+2012-11-26 16:06:05.7310 OnLoad event execute!
+2012-11-26 16:06:05.8230 OnLoadComplete event execute!
+2012-11-26 16:06:05.8230 OnPreRender event execute!
+2012-11-26 16:06:05.8250 OnPreRenderComplete event execute!
+2012-11-26 16:06:05.8250 OnSaveStateComplete event execute!
+2012-11-26 16:06:05.8660 OnUnload event execute!
+2012-11-26 16:06:05.8660 -------------------
+2012-11-26 16:10:57.4189 OnPreInit event execute!
+2012-11-26 16:10:57.4299 User Control OnInit event execute!
+2012-11-26 16:10:57.4299 OnInit event execute!
+2012-11-26 16:10:57.4299 OnInitComplete event execute!
+2012-11-26 16:10:57.4299 OnPreLoad event execute!
+2012-11-26 16:10:57.4299 OnLoad event execute!
+2012-11-26 16:10:57.4409 User Control OnLoad event execute!
+2012-11-26 16:10:57.4409 OnLoadComplete event execute!
+2012-11-26 16:10:57.4409 OnPreRender event execute!
+2012-11-26 16:10:57.4409 User Constrol OnPreRender event execute!
+2012-11-26 16:10:57.4409 OnPreRenderComplete event execute!
+2012-11-26 16:10:57.4409 OnSaveStateComplete event execute!
+2012-11-26 16:10:57.5399 User Constrol OnUnload event execute!
+2012-11-26 16:10:57.5399 OnUnload event execute!
+2012-11-26 16:10:57.5399 -------------------
+2012-11-26 16:11:16.2742 OnPreInit event execute!
+2012-11-26 16:11:16.2742 User Control OnInit event execute!
+2012-11-26 16:11:16.2742 OnInit event execute!
+2012-11-26 16:11:16.2742 OnInitComplete event execute!
+2012-11-26 16:11:16.2742 OnPreLoad event execute!
+2012-11-26 16:11:16.2742 OnLoad event execute!
+2012-11-26 16:11:16.2742 User Control OnLoad event execute!
+2012-11-26 16:11:16.3431 OnLoadComplete event execute!
+2012-11-26 16:11:16.3441 OnPreRender event execute!
+2012-11-26 16:11:16.3441 User Constrol OnPreRender event execute!
+2012-11-26 16:11:16.3441 OnPreRenderComplete event execute!
+2012-11-26 16:11:16.3441 OnSaveStateComplete event execute!
+2012-11-26 16:11:16.3841 User Constrol OnUnload event execute!
+2012-11-26 16:11:16.3841 OnUnload event execute!
+2012-11-26 16:11:16.3841 -------------------

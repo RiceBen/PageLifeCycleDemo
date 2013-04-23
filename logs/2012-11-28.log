@@ -1,0 +1,19 @@
+2012-11-28 14:37:24.6836 OnPreInit event execute!
+2012-11-28 14:37:24.6906 ucTextBox1 Init event execute!
+2012-11-28 14:37:24.6906 User Control OnInit event execute!
+2012-11-28 14:37:24.6906 OnInit event execute!
+2012-11-28 14:37:24.6906 OnInitComplete event execute!
+2012-11-28 14:37:24.6906 OnPreLoad event execute!
+2012-11-28 14:37:24.6906 OnLoad event execute!
+2012-11-28 14:37:24.6906 User Control OnLoad event execute!
+2012-11-28 14:37:24.6906 ucTextBox1 Load event execute!
+2012-11-28 14:37:24.6906 OnLoadComplete event execute!
+2012-11-28 14:37:24.6906 OnPreRender event execute!
+2012-11-28 14:37:24.7046 User Constrol OnPreRender event execute!
+2012-11-28 14:37:24.7046 ucTextBox1 PreRender event execute!
+2012-11-28 14:37:24.7046 OnPreRenderComplete event execute!
+2012-11-28 14:37:24.7046 OnSaveStateComplete event execute!
+2012-11-28 14:37:24.7916 ucTextBox1 Unload event execute!
+2012-11-28 14:37:24.7916 User Constrol OnUnload event execute!
+2012-11-28 14:37:24.7916 OnUnload event execute!
+2012-11-28 14:37:24.7916 -------------------
